@@ -5,7 +5,6 @@ Analytics Engineer with a background in Mathematics.
 Interested in:
 - analytics engineering
 - workflow automation
-- AI-assisted development
 - data systems
 - lightweight product development
 - creative technical projects
